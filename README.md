@@ -2,7 +2,7 @@
 Headless interactions with web applications. Python + Selenium + PhantomJS
 
 
-```
+```python
 
 from selenium import webdriver
 driver = webdriver.PhantomJS(executable_path='D:\Apps\phantomjs\phantomjs.exe')
